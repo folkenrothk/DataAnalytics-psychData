@@ -9,4 +9,4 @@ _Completed Fall 2020_
  
  ## Findings
  
- Please refer to [the final report](./writing/report.md] for conclusions and findings.
+ Please refer to [the final report](./writing/report.md) for conclusions and findings.
